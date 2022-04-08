@@ -1,6 +1,8 @@
-# Team A
+# Rarita’s New National Football Team!
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+On behalf of the Comissioner of Sport for Rarita, Team A has constructed the inaugural Raritan football team! 
+
+This page outlines the statistical methodologies and analysis undertaken to support the team recommendation. 
 
 ---
 ![](coollogo_com-16557518.png)
