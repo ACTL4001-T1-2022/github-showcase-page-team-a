@@ -3,8 +3,7 @@
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
-
-
+![](coollogo_com-8343160.png)
 | Player | Position|
 | :---:  | :---:  |
 | K. Kazlo? | FW |
