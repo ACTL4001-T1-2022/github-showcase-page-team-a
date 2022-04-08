@@ -4,6 +4,30 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
+
+| Player | Position|
+| :---:  | :---:  |
+| K. Kazlo? | FW |
+| A. Kyarikunda | FW |
+| U. Shoko | FW |
+| W. Martinez | FW |
+| P. Rabiu | MFFW |
+| P. Villa | MFFW |
+| Q. Morrison | MF |
+| J. Nurhayati | MF |
+| X. Leroy | MF |
+| S. Barman | MF |
+| O. Wanjala | MF |
+| F. Chin | MF |
+| H. Zare | DF |
+| C. Tukamushaba | DF |
+| H. Azizi | DF |
+| N. Terzi? | DF |
+| T. Nouri | DF |
+| A. Omar | GK |
+| B. Ampofo | GK |
+
+
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
 >Now it's time to build your own website to showcase your work.  
