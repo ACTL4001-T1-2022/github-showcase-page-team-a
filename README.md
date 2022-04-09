@@ -10,7 +10,7 @@ This page outlines the statistical methodologies and analysis undertaken to supp
 ![](coollogo_com-16557518.png)
 | Player | Position|
 | :---:  | :---:  |
-| K. Kazlo? | FW |
+| K. Kazlo?  | FW |
 | A. Kyarikunda | FW |
 | U. Shoko | FW |
 | W. Martinez | FW |
@@ -54,9 +54,37 @@ We’ve developed an estimate of the winning probabilities for each matchup of t
 
 So then the probability of a win will be this 'Win' metric divided by the sum of all 3 'Win', 'Draw' and 'Loss' metrics.
 
-From these probabilities, the teams’ expected number of tournament points across a season (home and away) were calculated. (3 for a Win, 1 for a Draw, 0 for a Loss). The expected points table alligns quite well with the 2021 Tournament results, demonstrating the validity of this using this approach for estimating Tournament Results.
+From these probabilities, the teams’ expected number of tournament points across a season (home and away) were calculated. (3 for a Win, 1 for a Draw, 0 for a Loss). The expected points table alligns quite well with the 2021 Tournament results, demonstrating the validity of this using this approach for predicting Tournament Results. Many of the teams have a total quite close to each other, so some discrepancy is expected.
 
-Monte Carlo simulation was then used to simulate the tournament points earned throughout a theoretical season for our recommended Raritan national team, and the highest and lowest placing nations from the 2021 RFA tournament for comparison.
+| 2021 FSA Tournament Placement | Nations ordered by Expected Tournament Points | Expected Tournament Points |
+| :---:  | :---:  | :---:  |
+| Sobianitedrucy | Sobianitedrucy| 80.39256|
+| People's Land of Maneau | Nganion |77.57156|
+| Nganion | People's Land of Maneau |75.75966|
+| Mico | Byasier Pujan |74.79793|
+| Quewenia | Rarita |74.66649|
+| Southern Ristan | Greri Landmoslands |73.42093|
+| Galamily | Djipines |71.63178|
+| Bernepamar | Giumle Lizeibon |69.43081|
+| Giumle Lizeibon | Southern Ristan |69.12867|
+| Greri Landmoslands | Manlisgamncent |68.40061|
+| Xikong | Mico |64.96052|
+| Manlisgamncent | Ngoque Blicri |64.82188|
+| Esia | Bernepamar |63.32280|
+| Byasier Pujan | Galamily |62.73767|
+| Djipines | Leoneku Guidisia |61.85567|
+| Leoneku Guidisia | Xikong |60.79721|
+| Ledian | Quewenia |58.76166|
+| Eastern Sleboube | New Uwi |57.54362|
+| New Uwi | Nkasland Cronestan |56.26734|
+| Ngoque Blicri | Esia |52.72160|
+| Nkasland Cronestan | Eastern Niasland |51.88768|
+| Eastern Niasland | Varijitri Isles |47.44720|
+| Varijitri Isles | Ledian |46.41649|
+|  | Eastern Sleboube |40.63047|
+
+
+Monte Carlo simulation was then used to simulate the tournament points earned throughout a theoretical season for our recommended Raritan national team, and the highest and lowest placing nations from the 2021 RFA tournament for comparison. Fitting a gamma distribution to these results allows us to compute an estimated probability of achieving a top 10 placement, ensured by achieving greater than 65 tournament points:
 
 ![](RaritaTP.png)
 
