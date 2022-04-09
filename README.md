@@ -102,7 +102,7 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 <img width="620" alt="graph 2" src="https://user-images.githubusercontent.com/103164965/162573766-a8557281-a102-4b96-bc84-09d7280ea452.png">
 </p>
 
-|Countries|t-2|t-1|t-2	|t-1	|t	|t+1	|t+2|
+|*Countries*|*t-2*|*t-1*|*t-2*	|*t-1*	|*t*	|*t+1*	|*t+2*|
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
 |Brazil (1970)	|10%	|10%	|10%	|11%	|12%|
 |West Germany (1974)	|4%	|5%	|1%	|-1%	|5%|
@@ -111,12 +111,12 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 |Argentina (1986)	|2%	|-5%	|6%	|3%	|-1%|
 |West Germany (1990)	|4%	|4%	|3%	|5%	|2%|
 |Brazil(1994)	|1%	|-3%	|6%	|8%	|7%|
-France (1998)	1%	2%	4%	3%	4%
-Brazil (2002)	4%	1%	4%	1%	6%
-Italy (2006)	1%	1%	2%	1%	-1%
-Spain (2010)	1%	-4%	0%	-1%	-3%
-Germany (2014)	0%	0%	2%	1%	2%
-France (2018)	1%	2%	2%	2%	-8%
+|France (1998)	|1%	|2%	|4%	|3%	|4%|
+|Brazil (2002)	|4%	|1%	|4%	|1%	|6%|
+|Italy (2006)	|1%	|1%	|2%	|1%	|-1%|
+|Spain (2010)	|1%	|-4%	|0%	|-1%	|-3%|
+|Germany (2014)	|0%	|0%	|2%	|1%	|2%|
+|France (2018)	|1%	|2%	|2%	|2%	|-8%|
 
 
 
