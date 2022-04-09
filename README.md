@@ -94,9 +94,13 @@ World Cup Data
 
 Data from the world cup was used to model the GDP growth of Rarita since the World Cup was the largest soccer tournament in the world where teams could represent their home countries on the international level.
 
-<align="center" img width="620" alt="graph 1" src="https://user-images.githubusercontent.com/103164965/162573688-b18f2bbb-9e0e-4893-8678-a56a342977fe.png">
-
+<p align="center" width="100%">
+<img width="620" alt="graph 1" src="https://user-images.githubusercontent.com/103164965/162573688-b18f2bbb-9e0e-4893-8678-a56a342977fe.png">
+</p>
+	
+<p align="center" width="100%">
 <img width="620" alt="graph 2" src="https://user-images.githubusercontent.com/103164965/162573766-a8557281-a102-4b96-bc84-09d7280ea452.png">
+</p>
 
 
 
