@@ -106,6 +106,8 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 
 |*Countries*|*t-2*	|*t-1*	|*t*	|*t+1*	|*t+2*| <img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
 
+
+<p align="center" width="100%">
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
 |Brazil (1970)	|10%	|10%	|10%	|11%	|12%|
 |West Germany (1974)	|4%	|5%	|1%	|-1%	|5%|
@@ -120,6 +122,7 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 |Spain (2010)	|1%	|-4%	|0%	|-1%	|-3%|
 |Germany (2014)	|0%	|0%	|2%	|1%	|2%|
 |France (2018)	|1%	|2%	|2%	|2%	|-8%|
+</p>
 
 <p align="center" width="100%">
 <img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
@@ -130,7 +133,9 @@ The above table and graph shows the GDP growth trend during a 5-year period for 
 From all the data shown, we made the assumptions that the economic impacts of a successful soccer team would have a larger effect on developing countries than developed countries. 
 
 Economic Impacts on Rarita
-				
+
+
+<p align="center" width="100%">
 |*Year*	|*East Rarita*	|*Central Rarita*	|*West Rarita*	|*Rarita*|
 | :---:  | :---:  | :---:  | :---:  | :---:  |
 |2012	|2%	|-2%	|3%	|1%|
@@ -151,6 +156,7 @@ Economic Impacts on Rarita
 |2028E	|4%	|3%	|5%	|4%|
 |2029E	|4%	|3%	|5%	|4%|
 |2030E	|4%	|4%	|5%	|4%!
+</p>
 
 <p align="center" width="100%">
 <img width="454" alt="graph 4" src="https://user-images.githubusercontent.com/103164965/162578460-9e87a753-1bd8-443a-8d3c-e3d18a730b8e.png">
