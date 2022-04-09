@@ -59,7 +59,6 @@ From these probabilities, the teams’ expected number of tournament points acro
 Monte Carlo simulation was then used to simulate the tournament points earned throughout a theoretical season for our recommended Raritan national team, and the highest and lowest placing nations from the 2021 RFA tournament for comparison.
 
 
-![](RaritaPoints.png)
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
