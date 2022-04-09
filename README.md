@@ -84,7 +84,7 @@ From these probabilities, the teams’ expected number of tournament points acro
 |  | Eastern Sleboube |40.63047|
 
 
-Monte Carlo simulation was then used to simulate the tournament points earned throughout a theoretical season for our recommended Raritan national team, and the highest and lowest placing nations from the 2021 RFA tournament for comparison. Fitting a gamma distribution to these results allows us to compute an estimated probability of achieving a top 10 placement, ensured by achieving greater than 65 tournament points:
+Monte Carlo simulation was then used to simulate the tournament points earned throughout a theoretical season for our recommended Raritan national team, and the highest and lowest placing nations from the 2021 RFA tournament for comparison. Fitting a gamma distribution to these results allows us to compute an estimated probability of achieving a top 10 placement (estimated by achieving greater than 65 tournament points), and a tournament title (estimated by achieving 85 points).
 
 ![](RaritaTP.png)
 
