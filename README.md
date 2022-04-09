@@ -41,7 +41,7 @@ The model was designed to both select and provide weights for each of the metric
 			
 Specific metrics were then manually adjusted where deemed necessary, in particular when some variables were assigned negative coefficients.  Then, from the top Raritan candidates ranked by the models, the final team selection was made. 
 
-### Team Competitiveness
+![](coollogo_com-245443321.png)
 		 	 	 		
 We’ve developed an estimate of the winning probabilities for each matchup of the 2021 FSA tournament, calculated by merging key team performance metrics: 
 
