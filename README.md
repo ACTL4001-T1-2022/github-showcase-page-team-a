@@ -121,12 +121,42 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 |Germany (2014)	|0%	|0%	|2%	|1%	|2%|
 |France (2018)	|1%	|2%	|2%	|2%	|-8%|
 
-The above table shows the GDP growth during a 5-year period for the winning World Cup countries where data two years before and after the world cup win are also shown.
+<p align="center" width="100%">
+<img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
+</p>
 
+The above table and graph shows the GDP growth trend during a 5-year period for the winning World Cup countries where data two years before and after the world cup win are shown.
 
+From all the data shown, we made the assumptions that the economic impacts of a successful soccer team would have a larger effect on developing countries than developed countries. 
 
+Economic Impacts on Rarita
+				
+|*Year*	|*East Rarita*	|*Central Rarita*	|*West Rarita*	|*Rarita*|
+| :---:  | :---:  | :---:  | :---:  | :---:  |
+|2012	|2%	|-2%	|3%	|1%|
+|2013	|2%	|0%	|3%	|1%|
+|2014	|4%	|2%	|2%	|3%|
+|2015	|11%	|5%	|6%	|8%|
+|2016	|5%	|4%	|3%	|4%|
+|2017	|7%	|6%	|6%	|6%|
+|2018	|2%	|5%	|3%	|3%|
+|2019	|3%	|4%	|7%	|4%|
+|2020	|-2%	|-6%	|-4%	|-4%|
+|2022E	|2%	|2%	|4%	|3%|
+|2023E	|3%	|2%	|4%	|3%|
+|2024E	|3%	|3%	|5%	|3%|
+|2025E	|4%	|3%	|5%	|4%|
+|2026E	|4%	|3%	|5%	|4%|
+|2027E	|4%	|3%	|5%	|4%|
+|2028E	|4%	|3%	|5%	|4%|
+|2029E	|4%	|3%	|5%	|4%|
+|2030E	|4%	|4%	|5%	|4%!
 
+<p align="center" width="100%">
+<img width="454" alt="graph 4" src="https://user-images.githubusercontent.com/103164965/162578460-9e87a753-1bd8-443a-8d3c-e3d18a730b8e.png">
+</p>
 
+From the World Cup data and Rarita's economic data, we predict that Rarita's inflation rate will increase linearly at a rate of 0.1% until 2025 and then increase at a rate of 0.2%. This is because we believe there is an economic lag following the success of Rarita's soccer team. Similarly the GDP growth rates have been projected linearly with West Rarita having the highest growth since it is much less developed than the other two provinces. 
 
 
 
