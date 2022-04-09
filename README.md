@@ -88,6 +88,15 @@ Monte Carlo simulation was then used to simulate the tournament points earned th
 
 ![](RaritaTP.png)
 
+Economic Impacts <- format 
+
+World Cup Data 
+
+![](graph 1.png)
+
+
+
+
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
