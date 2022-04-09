@@ -1,4 +1,4 @@
-# Rarita’s New National Football Team!
+![](coollogo_com-20588320.png)
 
 On behalf of the Comissioner of Sport for Rarita, Team A has constructed the inaugural Raritan football team! 
 
