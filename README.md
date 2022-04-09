@@ -92,7 +92,8 @@ Economic Impacts <- format
 
 World Cup Data 
 
-![](graph 1.png)
+<img width="620" alt="graph 1" src="https://user-images.githubusercontent.com/103164965/162573688-b18f2bbb-9e0e-4893-8678-a56a342977fe.png">
+
 
 
 
