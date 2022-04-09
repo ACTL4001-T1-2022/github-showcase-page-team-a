@@ -102,6 +102,8 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 <img width="620" alt="graph 2" src="https://user-images.githubusercontent.com/103164965/162573766-a8557281-a102-4b96-bc84-09d7280ea452.png">
 </p>
 
+||t-2|t-1|t-2	|t-1	|t	|t+1	|t+2|
+
 
 
 
