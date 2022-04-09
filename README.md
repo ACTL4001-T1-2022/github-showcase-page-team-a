@@ -88,9 +88,9 @@ Monte Carlo simulation was then used to simulate the tournament points earned th
 
 ![](RaritaTP.png)
 
-Economic Impacts <- format 
+Economic Impacts <- format Heading
 
-World Cup Data 
+World Cup Data <- Format as Subheading
 
 Data from the world cup was used to model the GDP growth of Rarita since the World Cup was the largest soccer tournament in the world where teams could represent their home countries on the international level.
 
@@ -102,7 +102,10 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 <img width="620" alt="graph 2" src="https://user-images.githubusercontent.com/103164965/162573766-a8557281-a102-4b96-bc84-09d7280ea452.png">
 </p>
 
-|*Countries*|*t-2*	|*t-1*	|*t*	|*t+1*	|*t+2*|
+The two graphs above shows the GDP growth of the winning World Cup countries and the runner up countries respectively. 
+
+|*Countries*|*t-2*	|*t-1*	|*t*	|*t+1*	|*t+2*| <img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
+
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
 |Brazil (1970)	|10%	|10%	|10%	|11%	|12%|
 |West Germany (1974)	|4%	|5%	|1%	|-1%	|5%|
@@ -118,6 +121,7 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 |Germany (2014)	|0%	|0%	|2%	|1%	|2%|
 |France (2018)	|1%	|2%	|2%	|2%	|-8%|
 
+The above table shows the GDP growth during a 5-year period for the winning World Cup countries where data two years before and after the world cup win are also shown.
 
 
 
