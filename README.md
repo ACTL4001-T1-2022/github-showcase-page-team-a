@@ -28,6 +28,17 @@ This page outlines the statistical methodologies and analysis undertaken to supp
 | A. Omar | GK |
 | B. Ampofo | GK |
 
+The above 20 players were chosen from three separate logistic GLM models, applied to three groups of players:				
+				
+- Tournament Forwards – Shooting and Passing metrics for 2021
+- Tournament Defenders – Defending and Passing metrics for 2021
+- Tournament Goalkeepers – Goalkeeping metrics for 2021
+
+The model was designed to both select and provide weights for each of the metrics depending on their significance in predicting tournament success for each of the three groups of players. Tournament success was defined as placing in the top 3 teams in the 2021 FSA Tournament. 
+		 	 	 		
+			
+Specific metrics were then manually adjusted where deemed necessary, in particular when some variables were assigned negative coefficients.  Then, from the top Raritan candidates ranked by the models, the final team selection was made. 
+
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
