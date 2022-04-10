@@ -88,6 +88,20 @@ Monte Carlo simulation was then used to simulate the tournament points earned th
 
 ![](RaritaTP.png)
 
+Salary Projection <- format as subheading
+
+Player salaries are projected following three simple rules. They either increase due to age, decrease after an expected peak or are reset to the average of the past years’ team salary. 
+
+An increase of 1.05 has been used to account for inflation, skill development and contract convention.  
+
+A decrease factor of 0.9 has been used to account for players getting worse after reaching their peak. Research has shown salaries for midfielders and forwards are more likely to continually increase. The expected peak for players is at 27 years.
+ 		
+Resets are done after players are expected to retire. As we can not perfectly predict whether the team will draft rookies or buy out existing players, we will use the average of the past years’ team salary as the new salary for this player slot. A 3 year lag has been used to correct current salaries until they are in line with the distribution of tournament player salaries (as the bulk of our team is from the RFL).
+
+<p align="center" width="100%">
+<img width="620" alt="graph 1" src="https://raw.githubusercontent.com/ACTL4001-T1-2022/github-showcase-page-team-a/main/SalaryProjection.png">
+</p>
+
 Economic Impacts <- format Heading
 
 World Cup Data <- Format as Subheading
