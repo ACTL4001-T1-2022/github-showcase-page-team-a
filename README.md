@@ -111,7 +111,7 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
 |Brazil (1970)	|10%	|10%	|10%	|11%	|12%|
 |West Germany (1974)	|4%	|5%	|1%	|-1%	|5%|
-|Argentina (1978)	|-2%	|7%	|-5%	|10%	|2%
+|Argentina (1978)	|-2%	|7%	|-5%	|10%	|2%|
 |Italy (1982)	|3%	|1%	|0%	|1%	|3%|
 |Argentina (1986)	|2%	|-5%	|6%	|3%	|-1%|
 |West Germany (1990)	|4%	|4%	|3%	|5%	|2%|
