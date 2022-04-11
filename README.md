@@ -182,7 +182,14 @@ From all the data shown, we made the assumptions that the economic impacts of a 
 <img width="454" alt="graph 4" src="https://user-images.githubusercontent.com/103164965/162578460-9e87a753-1bd8-443a-8d3c-e3d18a730b8e.png">
 </p>
 
-From the World Cup data and Rarita's economic data, we predict that Rarita's inflation rate will increase linearly at a rate of 0.1% until 2025 and then increase at a rate of 0.2%. This is because we believe there is an economic lag following the success of Rarita's soccer team. Similarly the GDP growth rates have been projected linearly with West Rarita having the highest growth since it is much less developed than the other two provinces. 
+From the World Cup data and Rarita's economic data, we predict that Rarita's inflation rate will increase linearly at a rate of 0.1% until 2025 and then increase at a rate of 0.2%. This is because we believe there is an economic lag following the success of Rarita's soccer team. Similarly the GDP growth rates have been projected linearly with West Rarita having the highest growth since it is much less developed than the other two provinces.
+
+KEY ASSUMPTIONS AND LIMITATIONS
+
+|*Metric*| *Assumption* | *Rationale*|
+| :---:  | :---:  | :---:  |
+|Rarita GDP Growth Rate| Modelled on the GDP growth rates of countries who participated in the World Cup.| World Cup is the largest soccer tournament where teams get to represent their home country which means that the team’s performance has a direct impact on the home country’s economy.|
+
 
 
 
