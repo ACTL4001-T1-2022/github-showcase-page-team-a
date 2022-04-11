@@ -189,6 +189,9 @@ KEY ASSUMPTIONS AND LIMITATIONS
 |*Metric*| *Assumption* | *Rationale*|
 | :---:  | :---:  | :---:  |
 |Rarita GDP Growth Rate| Modelled on the GDP growth rates of countries who participated in the World Cup.| World Cup is the largest soccer tournament where teams get to represent their home country which means that the team’s performance has a direct impact on the home country’s economy.|
+|Rarita Inflation Rate|Increase linearly for the first five years at a rate of 0.1% and then increase by 0.2% for the next 5 years.| The performance of Rarita’s soccer team will not have an immediate effect on the economy and the economic impacts will most likely be evident after a few years.|
+|Source of Growth|Mostly be affected due to the growth in West Rarita|West Rarita is the more developing part of Rarita’s economy and therefore any economic impact would be most prominent in that province|
+
 
 
 
