@@ -162,8 +162,6 @@ From all the data shown, we made the assumptions that the economic impacts of a 
 
 # Economic Impacts on Rarita
 
-
-<p align="center" width="100%">
 |*Year*	|*East Rarita*	|*Central Rarita*	|*West Rarita*	|*Rarita*|
 | :---:  | :---:  | :---:  | :---:  | :---:  |
 |2012	|2%	|-2%	|3%	|1%|
@@ -184,7 +182,6 @@ From all the data shown, we made the assumptions that the economic impacts of a 
 |2028E	|4%	|3%	|5%	|4%|
 |2029E	|4%	|3%	|5%	|4%|
 |2030E	|4%	|4%	|5%	|4%!
-</p>
 
 <p align="center" width="100%">
 <img width="454" alt="graph 4" src="https://user-images.githubusercontent.com/103164965/162578460-9e87a753-1bd8-443a-8d3c-e3d18a730b8e.png">
