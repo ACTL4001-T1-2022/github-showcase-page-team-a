@@ -1,5 +1,5 @@
 title: Team A Landing Page
-description: Cayman is a clean, responsive theme for GitHub Pages.
+description: Supporting our submission for the 2022 Student Research Case Study Challenge
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
@@ -7,11 +7,11 @@ color:
     gradient_right: "#a53e4c"
     header: "#fff"
 
-logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
+logo_url: https://www.pngmart.com/image/228532/png/228531
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://github.com/tuur29/pages-themes-cayman
-  zip_title: View Documentation
+  zip_url: https://github.com/ACTL4001-T1-2022/github-showcase-page-team-a
+  zip_title: View Github
   zip_hide: false
   tar_hide: true
   github_hide: true
