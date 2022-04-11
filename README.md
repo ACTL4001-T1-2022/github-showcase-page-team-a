@@ -185,7 +185,7 @@ From the World Cup data and Rarita's economic data, we predict that Rarita's inf
 
 ## Key Assumptions and Limitations
 
-|*Metric*| *Assumption* | *Rationale*|
+|Metric| Assumption | Rationale|
 | :---:  | :---:  | :---:  |
 |Rarita GDP Growth Rate| Modelled on the GDP growth rates of countries who participated in the World Cup.| World Cup is the largest soccer tournament where teams get to represent their home country which means that the team’s performance has a direct impact on the home country’s economy.|
 |Rarita Inflation Rate|Increase linearly for the first five years at a rate of 0.1% and then increase by 0.2% for the next 5 years.| The performance of Rarita’s soccer team will not have an immediate effect on the economy and the economic impacts will most likely be evident after a few years.|
@@ -194,7 +194,12 @@ From the World Cup data and Rarita's economic data, we predict that Rarita's inf
 |Model coefficients|Model coefficients that were negative were changed to 0 or 0.2|Penalising players for large positive attributes didn’t make sense. It makes more sense that these metrics are not an indicator of player performance|
 |Success Probabilities|65 Tournament points are required to break top 10, 85 for a Championship|The expected points of the top 10 teams were approximately 65. The top team has an expected 80 points, so 85 is conservative|
 
-
+|Metric| Limitation | Explanation|
+| :---:  | :---:  | :---:  |
+|Future Success Probabilities| The collegiality of the players, the impact of coaching, and the impact of playing home vs away is unavailable | This information would assist greatly in predicting future team performance|
+|Performance of different Leagues| Performance isn’t different across Leagues | Multinomial and logistic regression couldn’t produce accurate predictions of which league a player belonged in a higher/ lower league from their data|
+|Missing Data and anomalies| 2020 data is incomplete and is missing for Tournament players. Negative values for metrics such as ‘Number of Shots’ and percentages greater than 100% non- sensical | Ideally would like many years of player data to analyse. Data anomalies reduce the amount of legitimate data used in analysis|
+|Growth Rate Data| World Cup data is only every 4 years | Impact of winning a championship and performance of a competitive national team on the economy is difficult to gauge based on historic data|
 
 
 
