@@ -120,13 +120,13 @@ Resets are done after players are expected to retire. As we can not perfectly pr
 
 Data from the world cup was used to model the GDP growth of Rarita since the World Cup was the largest soccer tournament in the world where teams could represent their home countries on the international level.
 
-<p align="center" width="100%">
+
 <img width="620" alt="graph 1" src="https://user-images.githubusercontent.com/103164965/162573688-b18f2bbb-9e0e-4893-8678-a56a342977fe.png">
-</p>
+
 	
-<p align="center" width="100%">
+
 <img width="620" alt="graph 2" src="https://user-images.githubusercontent.com/103164965/162573766-a8557281-a102-4b96-bc84-09d7280ea452.png">
-</p>
+
 
 The two graphs above shows the GDP growth of the winning World Cup countries and the runner up countries respectively. 
 
@@ -147,9 +147,8 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 |France (2018)	|1%	|2%	|2%	|2%	|-8%|
 
 
-<p align="center" width="100%">
 <img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
-</p>
+
 
 The above table and graph shows the GDP growth trend during a 5-year period for the winning World Cup countries where data two years before and after the world cup win are shown.
 
@@ -178,9 +177,9 @@ From all the data shown, we made the assumptions that the economic impacts of a 
 |2029E	|4%	|3%	|5%	|4%|
 |2030E	|4%	|4%	|5%	|4%|
 
-<p align="center" width="100%">
+
 <img width="454" alt="graph 4" src="https://user-images.githubusercontent.com/103164965/162578460-9e87a753-1bd8-443a-8d3c-e3d18a730b8e.png">
-</p>
+
 
 From the World Cup data and Rarita's economic data, we predict that Rarita's inflation rate will increase linearly at a rate of 0.1% until 2025 and then increase at a rate of 0.2%. This is because we believe there is an economic lag following the success of Rarita's soccer team. Similarly the GDP growth rates have been projected linearly with West Rarita having the highest growth since it is much less developed than the other two provinces.
 
