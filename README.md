@@ -116,7 +116,7 @@ Resets are done after players are expected to retire. As we can not perfectly pr
 
 ![](EconomicImpactslogo.png)
 
-### World Cup Data 
+# World Cup Data 
 
 Data from the world cup was used to model the GDP growth of Rarita since the World Cup was the largest soccer tournament in the world where teams could represent their home countries on the international level.
 
@@ -158,7 +158,7 @@ The above table and graph shows the GDP growth trend during a 5-year period for 
 
 From all the data shown, we made the assumptions that the economic impacts of a successful soccer team would have a larger effect on developing countries than developed countries. 
 
-### Economic Impacts on Rarita
+# Economic Impacts on Rarita
 
 
 <p align="center" width="100%">
