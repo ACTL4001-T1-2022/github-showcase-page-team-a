@@ -1,1 +1,9 @@
 remote_theme: tuur29/pages-themes-cayman
+
+
+
+colors:
+    gradient_left: "#c13b58"
+    gradient_right: "#a53e4c"
+    header: "#fff"
+
