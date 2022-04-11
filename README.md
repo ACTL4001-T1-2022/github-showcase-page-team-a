@@ -114,6 +114,17 @@ Resets are done after players are expected to retire. As we can not perfectly pr
 <img width="620" alt="graph 1" src="https://github.com/ACTL4001-T1-2022/github-showcase-page-team-a/blob/main/SalaryProjection.png">
 </p>
 
+# Revenue and Expense Projection
+
+A clear distinction between the revenues of the most successfully competitive teams and those at the bottom of the tournament ranking allows us to adjust Rarita's expenses as we assume the team will be competitive. 
+
+![RevenueBoxPlot](https://user-images.githubusercontent.com/103183617/162703262-c925362e-6707-42a6-a9e1-aa371d50dbf0.png)
+
+We then scale both the revenues and expenses over the next 10 years exponentially until we reach the mean of the top teams. 
+
+![RevenueExpenseProjection](https://user-images.githubusercontent.com/103183617/162704219-c3db40b9-3404-4e18-a6fd-0ffbfcdde3d6.png)
+
+
 ![](EconomicImpactslogo.png)
 
 # World Cup Data 
