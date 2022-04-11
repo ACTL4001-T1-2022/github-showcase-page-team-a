@@ -8,6 +8,7 @@ This page outlines the statistical methodologies and analysis undertaken to supp
 
 
 ![](coollogo_com-16557518.png)
+
 | Player | Position|
 | :---:  | :---:  |
 | K. Kazlo?  | FW |
