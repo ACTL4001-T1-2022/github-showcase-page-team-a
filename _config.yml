@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+title: Team A Landing Page
+description: Supporting our submission for the 2022 Student Research Case Study Challenge
+show_downloads: true
+remote_theme: tuur29/pages-themes-cayman
+color:
+    gradient_left: "#c13b58"
+    gradient_right: "#a53e4c"
+    header: "#fff"
+
+logo_url: https://www.pngmart.com/image/228532/png/228531
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+buttons:
+  zip_url: https://github.com/ACTL4001-T1-2022/github-showcase-page-team-a
+  zip_title: View Github
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
