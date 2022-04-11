@@ -184,14 +184,16 @@ From all the data shown, we made the assumptions that the economic impacts of a 
 
 From the World Cup data and Rarita's economic data, we predict that Rarita's inflation rate will increase linearly at a rate of 0.1% until 2025 and then increase at a rate of 0.2%. This is because we believe there is an economic lag following the success of Rarita's soccer team. Similarly the GDP growth rates have been projected linearly with West Rarita having the highest growth since it is much less developed than the other two provinces.
 
-KEY ASSUMPTIONS AND LIMITATIONS
+## Key Assumptions and Limitations
 
 |*Metric*| *Assumption* | *Rationale*|
 | :---:  | :---:  | :---:  |
 |Rarita GDP Growth Rate| Modelled on the GDP growth rates of countries who participated in the World Cup.| World Cup is the largest soccer tournament where teams get to represent their home country which means that the team’s performance has a direct impact on the home country’s economy.|
 |Rarita Inflation Rate|Increase linearly for the first five years at a rate of 0.1% and then increase by 0.2% for the next 5 years.| The performance of Rarita’s soccer team will not have an immediate effect on the economy and the economic impacts will most likely be evident after a few years.|
 |Source of Growth|Mostly be affected due to the growth in West Rarita|West Rarita is the more developing part of Rarita’s economy and therefore any economic impact would be most prominent in that province|
-
+|Predictor of Raritan Player Ability|Modelled from Tournament Data. The response variable was whether the player was in the Top 3 scoring teams in of the 2021 FSA|If a model predicts a high likelihood of a Raritan player performing like the top 3 Tournament teams, it makes sense to choose them.|
+|Model coefficients|Model coefficients that were negative were changed to 0 or 0.2|Penalising players for large positive attributes didn’t make sense. It makes more sense that these metrics are not an indicator of player performance|
+|Success Probabilities|65 Tournament points are required to break top 10, 85 for a Championship|The expected points of the top 10 teams were approximately 65. The top team has an expected 80 points, so 85 is conservative|
 
 
 
