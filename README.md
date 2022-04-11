@@ -130,9 +130,11 @@ Data from the world cup was used to model the GDP growth of Rarita since the Wor
 
 The two graphs above shows the GDP growth of the winning World Cup countries and the runner up countries respectively. 
 
-<img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
-
 <p align="center" width="100%">
+<img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
+</p>
+
+
 |*Countries*|*t-2*	|*t-1*	|*t*	|*t+1*	|*t+2*| 
 | :---:  | :---:  | :---:  | :---:  | :---:  | :---:  |
 |Brazil (1970)	|10%	|10%	|10%	|11%	|12%|
@@ -148,7 +150,7 @@ The two graphs above shows the GDP growth of the winning World Cup countries and
 |Spain (2010)	|1%	|-4%	|0%	|-1%	|-3%|
 |Germany (2014)	|0%	|0%	|2%	|1%	|2%|
 |France (2018)	|1%	|2%	|2%	|2%	|-8%|
-</p>
+
 
 <p align="center" width="100%">
 <img width="547" alt="graph 3" src="https://user-images.githubusercontent.com/103164965/162576740-e1a60b50-9829-479a-821b-9191ae588749.png">
