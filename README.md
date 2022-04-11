@@ -194,6 +194,8 @@ From the World Cup data and Rarita's economic data, we predict that Rarita's inf
 |Model coefficients|Model coefficients that were negative were changed to 0 or 0.2|Penalising players for large positive attributes didn’t make sense. It makes more sense that these metrics are not an indicator of player performance|
 |Success Probabilities|65 Tournament points are required to break top 10, 85 for a Championship|The expected points of the top 10 teams were approximately 65. The top team has an expected 80 points, so 85 is conservative|
 
+---
+
 |Metric| Limitation | Explanation|
 | :---:  | :---:  | :---:  |
 |Future Success Probabilities| The collegiality of the players, the impact of coaching, and the impact of playing home vs away is unavailable | This information would assist greatly in predicting future team performance|
