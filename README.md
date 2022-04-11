@@ -100,7 +100,7 @@ Monte Carlo simulation was then used to simulate the tournament points earned th
 | Sobianitedrucy | 0.920  | 0.999 |0.842 |
 | Varijitri Isles  | 0.009 | 0.04 | 0.0001  |
 
-### Salary Projection 
+# Salary Projection 
 
 Player salaries are projected following three simple rules. They either increase due to age, decrease after an expected peak or are reset to the average of the past years’ team salary. 
 
