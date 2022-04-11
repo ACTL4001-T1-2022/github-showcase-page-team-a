@@ -108,7 +108,7 @@ Resets are done after players are expected to retire. As we can not perfectly pr
 <img width="620" alt="graph 1" src="https://github.com/ACTL4001-T1-2022/github-showcase-page-team-a/blob/main/SalaryProjection.png">
 </p>
 
-Economic Impacts <- format Heading
+![](EconomicImpactslogo.png)
 
 World Cup Data <- Format as Subheading
 
