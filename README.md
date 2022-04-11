@@ -215,24 +215,14 @@ From the World Cup data and Rarita's economic data, we predict that Rarita's inf
 
 # Outline of Key Risks and Considerations
 
-|*Risk category*|*East Rarita*|*Central Rarita*|*West Rarita*|*Rarita*|
+|Risk category|Risk|Description|Credible worse case|Mitigation|
 | :---:  | :---:  | :---:  | :---:  | :---:  |
-|2012	|2%	|-2%	|3%	|1%|
-|2013	|2%	|0%	|3%	|1%|
-|2014	|4%	|2%	|2%	|3%|
-|2015	|11%	|5%	|6%	|8%|
-|2016	|5%	|4%	|3%	|4%|
-|2017	|7%	|6%	|6%	|6%|
-|2018	|2%	|5%	|3%	|3%|
-|2019	|3%	|4%	|7%	|4%|
-|2020	|-2%	|-6%	|-4%	|-4%|
-|2022E	|2%	|2%	|4%	|3%|
-|2023E	|3%	|2%	|4%	|3%|
-|2024E	|3%	|3%	|5%	|3%|
-|2025E	|4%	|3%	|5%	|4%|
-|2026E	|4%	|3%	|5%	|4%|
-|2027E	|4%	|3%	|5%	|4%|
-|2028E	|4%	|3%	|5%	|4%|
-|2029E	|4%	|3%	|5%	|4%|
-|2030E	|4%	|4%	|5%	|4%|
+|Social	|Reputation risk|Commercial revenue is highly correlated with social media followings (e.g. Facebook 0.81). Rarita’s reputation, the players’ reputations individually and the football program’s reputations can negatively impact the social media numbers if a scandal occurs.|Loss of 20% of followers on each platform, assuming a perfect correlation with commercial revenue. Results in a ∂ 30 per capita lower revenue streams.|Using social media team personnel and PR training for all public figures (players, coaches, general managers etc.) of the team.|
+|Financial|Performance risk|Rarita’s competitive team will not result in the mean revenue and expense for the top teams and run a loss.|Extremes of 95% confidence interval around expenses (the higher end) and revenues (the lower end) of the top teams. The expense upper bound is 180.88 per capita. The revenue lower bound is 287.04 per capita.|The likelihood for the from 2016-2020 of all teams to run a loss at all is 0.11, and to run a loss larger than ∂ 100 per capita is zero. Track revenue and expenditure and adjust accordingly (e.g. reduce salary increases in contracts).|
+|Political|Government support risk|Rarita’s government may undergo change and not support the football program publicly as well as financially.|100% of all external funding or extra sources of income will not be provided by the government anymore.|Re-investing profits from the program back into paying for any unforeseen expenses that are out of budget. Maintaining strong partnerships with investors to prevent needing government capital.|
+
+# Ethical Considerations
+
+If Rarita decides to develop facilities for the football program in the future, land use should be considered. Ensure any land used is not owned by the indigenous population of Rarita as evictions for minority-populated, socioeconomically underprivileged, or indigenous communities is highly unethical. This was overlooked and affected the favelas in Brazil in preparation for the 2014 World Cup. Effects of gentrification should be considered during the planning of any developments to mitigate this risk.
+
 
