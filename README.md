@@ -213,5 +213,26 @@ From the World Cup data and Rarita's economic data, we predict that Rarita's inf
 |Missing Data and anomalies| 2020 data is incomplete and is missing for Tournament players. Negative values for metrics such as ‘Number of Shots’ and percentages greater than 100% non- sensical | Ideally would like many years of player data to analyse. Data anomalies reduce the amount of legitimate data used in analysis|
 |Growth Rate Data| World Cup data is only every 4 years | Impact of winning a championship and performance of a competitive national team on the economy is difficult to gauge based on historic data|
 
+# Outline of Key Risks and Considerations
 
+|*Risk category*|*East Rarita*|*Central Rarita*|*West Rarita*|*Rarita*|
+| :---:  | :---:  | :---:  | :---:  | :---:  |
+|2012	|2%	|-2%	|3%	|1%|
+|2013	|2%	|0%	|3%	|1%|
+|2014	|4%	|2%	|2%	|3%|
+|2015	|11%	|5%	|6%	|8%|
+|2016	|5%	|4%	|3%	|4%|
+|2017	|7%	|6%	|6%	|6%|
+|2018	|2%	|5%	|3%	|3%|
+|2019	|3%	|4%	|7%	|4%|
+|2020	|-2%	|-6%	|-4%	|-4%|
+|2022E	|2%	|2%	|4%	|3%|
+|2023E	|3%	|2%	|4%	|3%|
+|2024E	|3%	|3%	|5%	|3%|
+|2025E	|4%	|3%	|5%	|4%|
+|2026E	|4%	|3%	|5%	|4%|
+|2027E	|4%	|3%	|5%	|4%|
+|2028E	|4%	|3%	|5%	|4%|
+|2029E	|4%	|3%	|5%	|4%|
+|2030E	|4%	|4%	|5%	|4%|
 
