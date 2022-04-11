@@ -110,9 +110,8 @@ A decrease factor of 0.9 has been used to account for players getting worse afte
  		
 Resets are done after players are expected to retire. As we can not perfectly predict whether the team will draft rookies or buy out existing players, we will use the average of the past years’ team salary as the new salary for this player slot. A 3 year lag has been used to correct current salaries until they are in line with the distribution of tournament player salaries (as the bulk of our team is from the RFL).
 
-<p align="center" width="100%">
-<img width="620" alt="graph 1" src="https://github.com/ACTL4001-T1-2022/github-showcase-page-team-a/blob/main/SalaryProjection.png">
-</p>
+![SalaryProjection](https://user-images.githubusercontent.com/103183617/162704397-20095901-0d30-471a-86ea-1038245fd6d2.png)
+
 
 # Revenue and Expense Projection
 
