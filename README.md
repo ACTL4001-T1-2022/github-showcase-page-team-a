@@ -4,6 +4,11 @@ On behalf of the Comissioner of Sport for Rarita, Team A has constructed the ina
 
 This page outlines the statistical methodologies and analysis undertaken to support the team recommendation. 
 
+## Team A Members
+- Abhi Khosla
+- Finn Hellen-Ford
+- Thomas Ding
+
 ---
 
 
